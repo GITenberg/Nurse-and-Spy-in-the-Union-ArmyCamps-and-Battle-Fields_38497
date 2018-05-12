@@ -1,0 +1,45 @@
+_repo: Nurse-and-Spy-in-the-Union-ArmyCamps-and-Battle-Fields_38497
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38497-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edmonds, S. Emma E. (Sarah Emma Evelyn)
+    aliases:
+    - Thompson, Franklin,
+    - Edmonds, Sarah Emma Evelyn
+    - Edmonds, Emma E.
+    - Edwards, Emma
+    - Seelye, Sarah Emma Edmonds
+    - Edmundson, Sarah Emma
+    - Edmondson, Sarah Emma Evelyn
+    - Thompson, Frank
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '39498'
+    url: http://www.gutenberg.org/2009/agents/39498
+description: ''
+gutenberg_issued: '2012-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38497'
+  lccn: 02017830
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Nurses -- United States -- Biography'
+- !lcsh 'Edmonds, S. Emma E. (Sarah Emma Evelyn), 1841-1898'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Secret service'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Participation, Female'
+- !lcsh 'Women spies -- United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+- !lcc 'E456'
+- !lcsh 'Women soldiers -- United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Medical care'
+title: "Nurse and Spy in the Union Army\r\nThe Adventures and Experiences of a Woman\
+  \ in Hospitals, Camps, and Battle-Fields"
+url: http://www.gutenberg.org/ebooks/38497
